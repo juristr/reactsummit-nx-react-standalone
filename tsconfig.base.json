@@ -15,8 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@myreactapp/modules/orders": ["modules/orders/src/index.ts"],
-      "@myreactapp/modules/products": ["modules/products/src/index.ts"]
+      "@myorg/orders": ["libs/orders/src/index.ts"],
+      "@myorg/products": ["libs/products/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
