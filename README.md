@@ -1,6 +1,6 @@
 # Talk: No CRA? What now?
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github.com/juristr/jsnation-pnpm-workspace-nx)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/https://github.com/juristr/reactsummit-nx-react-standalone)
 
 This is the demo project for my talk at ReactSummit Amsterdam 2023. I talked about
 
